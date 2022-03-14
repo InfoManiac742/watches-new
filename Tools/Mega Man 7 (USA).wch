@@ -1,0 +1,9 @@
+SystemID SNES
+000B81	b	u	0	WRAM	Lives (9)
+000B87	b	h	0	WRAM	Weapon Energy (9C)
+000BA0	b	u	0	WRAM	E-Tanks (4)
+000BA1	b	u	0	WRAM	W-Tanks (4)
+000BA6	w	u	0	WRAM	Bolts (999)
+000C2E	b	u	0	WRAM	HP (28)
+000B73	b	h	0	WRAM	
+
