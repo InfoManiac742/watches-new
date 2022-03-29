@@ -1,0 +1,12 @@
+SystemID GBA
+00075118	w	h	0	ROM	46C0/62E2
+00C492	b	h	0	EWRAM	Encounters
+00C493	b	h	0	EWRAM	Encounters
+005C00	b	h	0	Combined WRAM	
+004860	b	h	0	Combined WRAM	
+00B578	w	h	0	Combined WRAM	
+0047EC	b	h	0	Combined WRAM	
+004224	b	h	0	Combined WRAM	
+0	S	_	1		
+018E4C	b	u	0	Combined WRAM	
+
