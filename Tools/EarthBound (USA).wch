@@ -1,0 +1,15 @@
+SystemID SNES
+005D98	b	b	0	WRAM	OSS Flag
+009C09	b	b	0	WRAM	Spawns Off (0x04)
+00A22D	d	h	0	WRAM	Enemy 1 HP
+00A27B	d	h	0	WRAM	Enemy 2 HP
+00A2C9	d	h	0	WRAM	Enemy 3 HP
+000024	d	h	0	WRAM	RNG
+0096C5	d	h	0	WRAM	Text 9ff2b
+00AA10	w	h	0	WRAM	Battle item
+005D58	b	u	0	WRAM	I-Frames
+0017D4	b	u	0	WRAM	Grapefruit Falls Timer
+0017D7	b	u	0	WRAM	Grapefruit Falls Timer
+0054EE	b	h	0	CARTROM	
+009643	b	u	0	WRAM	Grapefruit Falls Timer
+
