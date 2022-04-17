@@ -1,0 +1,4 @@
+SystemID SNES
+000A08	b	h	0	WRAM	Invincible
+000CF8	b	h	0	WRAM	Invincible (Mech)
+
