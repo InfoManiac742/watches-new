@@ -1,0 +1,7 @@
+SystemID SNES
+000A08	b	h	0	WRAM	Invincible
+000CF8	b	h	0	WRAM	Invincible (Mech)
+000D3F	b	u	0	WRAM	Enemy HP
+000A8E	b	u	0	WRAM	Current character
+001FFF	b	u	0	WRAM	Current character
+
