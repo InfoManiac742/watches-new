@@ -1,0 +1,11 @@
+SystemID NES
+0658	b	u	0	RAM	Bombs
+066D	b	u	0	RAM	Rupees
+066E	b	u	0	RAM	Keys
+0070	b	h	0	RAM	Link X (10-05, EB)
+0084	b	h	0	RAM	Link Y (42, D8)
+066F	w	h	1	RAM	Hearts
+0012	b	h	0	RAM	
+00E7	b	h	0	RAM	
+00AC	b	h	0	RAM	
+
