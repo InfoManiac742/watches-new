@@ -1,0 +1,6 @@
+SystemID NES
+0773	b	u	0	RAM	Magic
+0775	w	u	1	RAM	Experience
+079F	b	u	0	RAM	Save Counter
+0518	b	h	0	RAM	Invincible
+
